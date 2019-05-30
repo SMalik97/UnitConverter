@@ -49,14 +49,13 @@ public class MainActivity extends AppCompatActivity {
                 alert.setIcon(R.drawable.information);
                 alert.setMessage("Unit Converter"+"\n"+"Version:1.0"+"\n"+"Contact me: subratamalik1997@gmail.com");
                 alert.setPositiveButton("OK",null);
-                // Showing Alert Message
                 alert.show();
                 break;
             case R.id.item2:
                //share activity
                 Intent p=new Intent(Intent.ACTION_SEND);
                 p.setType("text/plain");
-                p.putExtra(Intent.EXTRA_TEXT,"This is the best app for converting unit. Download it from "+"\n"+"https://play.google.com.store/apps");
+                p.putExtra(Intent.EXTRA_TEXT,"This is the best app for converting unit. Download it from "+"\n"+"");
                 startActivity(p);
                 break;
             case R.id.item3:
