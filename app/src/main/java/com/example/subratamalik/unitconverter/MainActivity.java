@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 AlertDialog.Builder alert=new AlertDialog.Builder(MainActivity.this);
                 alert.setTitle("About");
                 alert.setIcon(R.drawable.information);
-                alert.setMessage("Unit Converter"+"\n"+"Version:1.0"+"\n"+"Contact us: subratamalik1997@gmail.com");
+                alert.setMessage("Unit Converter"+"\n"+"Version:1.0"+"\n"+"Contact me: subratamalik1997@gmail.com");
                 alert.setPositiveButton("OK",null);
                 // Showing Alert Message
                 alert.show();
