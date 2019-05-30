@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="empty"></string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="clear">Clear</string>
+    <string name="select_unit">Select Unit</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="formula_area2">Formula: multiply the area value by 1e+6</string>
+    <string name="formula2">Formula: multiply the area value by 1e+10</string>
+    <string name="formula3">Formula: multiply the area value by 100</string>
+    <string name="formula4">Formula: multiply the area value by 1e+12</string>
+    <string name="formula5">Formula: multiply the area value by 1.55e+9 (approximate)</string>
+    <string name="formula7">Formula: multiply the area value by 1.076e+7 (approximate)</string>
+    <string name="formula9">Formula: multiply the area value by 1.196e+6 (approximate)</string>
+    <string name="formula11">Formula: multiply the area value by 247.1054 (approximate)</string>
+    <string name="formula13">Formula: divide the area value by 2.59</string>
+    <string name="formula14">Formula: multiply the area value by 0.01</string>
+    <string name="formula16">Formula: multiply the area value by 1e-6</string>
+    <string name="formula18">Formula:</string>
+    <string name="formula17">Rad*(180/π)=</string>
+    <string name="formula19">Deg</string>
+    <string name="formula20">Formula: multiply the area value by 1e-10</string>
+    <string name="formula21">Formula: multiply the area value by 1e-12</string>
+    <string name="feedback">Feedback</string>
+
+
+</resources>
